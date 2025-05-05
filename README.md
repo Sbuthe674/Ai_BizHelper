@@ -13,7 +13,7 @@
 ```
 pip install -r requirements.txt
 ```
-2. Добавьте свой API-ключ Gemini в `.env`
+2. Добавьте свой API-ключ Gemini в `.env.example`
 3. Запустите:
 ```
 streamlit run app.py
